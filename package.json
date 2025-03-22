@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "demo": "ts-node src/demo.ts"
+  },
+  "name": "combating-deepfake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.13.4",
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
